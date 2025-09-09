@@ -1,0 +1,22 @@
+# Gradle
+.gradle/
+build/
+
+# Local config
+local.properties
+
+# IDE
+.idea/
+*.iml
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Log
+*.log
+
+# SQLite database files
+*.db
+*.db-shm
+*.db-wal

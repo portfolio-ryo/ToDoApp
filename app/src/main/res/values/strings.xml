@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">ToDoApp</string>
+    <string name="text_hint">タスクを入力</string>
+    <string name="text_bt">追加</string>
+    <string name="positive_bt">削除</string>
+    <string name="negative_bt">キャンセル</string>
+    <string name="menu_del">すべて削除</string>
+    <string name="dl_all_del_title">全削除の確認</string>
+    <string name="dl_del_title">タスクの削除</string>
+    <string name="dl_all_del_message">本当にすべてのタスクを削除しますか？</string>
+    <string name="dl_del_message">このタスクを削除しますか？</string>
+</resources>
